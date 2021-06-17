@@ -1,5 +1,0 @@
-[server]
-uri=ws://13.125.228.7:3000
-[client]
-image_size=160
-margin=44
